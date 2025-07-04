@@ -2,15 +2,14 @@
 
 📍 Aparecida de Goiânia - GO, Brasil  
 📧 aquino.sti@hotmail.com  
-📱 (62) 9 9180-3860 | (62) 9 9232-8476  
 
 ---
 
 ## 🧑‍💼 Sobre Mim
 
-Profissional com mais de 15 anos de experiência em **Tecnologia da Informação**, atuando em empresas de médio e grande porte. Tenho perfil generalista, com forte atuação em **gestão de TI**, **infraestrutura**, **suporte a sistemas**, **bancos de dados**, **análise de dados**, **ETL**, **BI (Power BI, Pentaho)** e **RPA com Python**.
+Profissional com mais de 16 anos de experiência em **Tecnologia da Informação**, atuando em empresas de médio e grande porte. Tenho perfil generalista, com forte atuação em **gestão de TI**, **infraestrutura**, **suporte a sistemas**, **bancos de dados**, **análise de dados**, **ETL**, **BI (Power BI, Pentaho)** e **RPA com Python**.
 
-Atualmente sou **Gerente de TI (PJ)** em um grupo de concessionárias, e fundador da **VisionIT Consulting**, focada em soluções de dados e tecnologia para o agronegócio.
+Atualmente sou **Gerente de TI (PJ)** em uma holding no seguimento de empreendimentos imobiliários
 
 ---
 
@@ -46,7 +45,7 @@ Atualmente sou **Gerente de TI (PJ)** em um grupo de concessionárias, e fundado
 
 ## 🏢 Experiência Profissional
 
-### Gerente de TI – Grupo de Concessionárias  
+### Gerente de TI – Holding Imobiliária 
 **PJ | Aparecida de Goiânia – GO | Atual**  
 - Gestão de projetos, equipe técnica e contratos de TI  
 - Implantação de soluções de BI e automações com RPA  
@@ -59,14 +58,6 @@ Atualmente sou **Gerente de TI (PJ)** em um grupo de concessionárias, e fundado
 ### Analista de TI / Suporte / Sistemas  
 - Atendimento técnico, manutenção de servidores e banco de dados  
 - Desenvolvimento de relatórios e integrações entre sistemas  
-
----
-
-## 💼 VisionIT Consulting
-
-Fundador da **VisionIT Consulting**, especializada em soluções de **BI, automação, análise de dados e consultoria em TI**, com foco no **agronegócio**.
-
-🌐 [www.visionitconsulting.com.br](http://www.visionitconsulting.com.br) (em construção)
 
 ---
 
@@ -90,7 +81,7 @@ Fundador da **VisionIT Consulting**, especializada em soluções de **BI, automa
 
 ## 🤝 Vamos nos conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/valdivinoaquino)
+- [LinkedIn](https://www.linkedin.com/in/valdivino-aquino-ti-goiania)
 - [E-mail](mailto:aquino.sti@hotmail.com)
 
 ---
