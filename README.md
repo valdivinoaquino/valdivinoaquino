@@ -27,9 +27,9 @@ Atualmente sou **Gerente de TI** em uma empresa no seguimento de empreendimentos
 
 ## 🎓 Formação Acadêmica
 
-- 📘 **Bacharelado em Sistemas de Informação**
 - 🎓 **Pós-graduação em Segurança e Gestão de TI**
 - 📈 **Pós-graduação em Data Science**
+- 📘 **Bacharelado em Sistemas de Informação**
 - 📚 **Formação Técnica em Informática**
 
 ---
