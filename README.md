@@ -9,7 +9,7 @@
 
 Profissional com mais de 16 anos de experiência em **Tecnologia da Informação**, atuando em empresas de médio e grande porte. Tenho perfil generalista, com forte atuação em **gestão de TI**, **infraestrutura**, **suporte a sistemas**, **bancos de dados**, **análise de dados**, **ETL**, **BI (Power BI, Pentaho)** e **RPA com Python**.
 
-Atualmente sou **Gerente de TI (PJ)** em uma holding no seguimento de empreendimentos imobiliários
+Atualmente sou **Gerente de TI** em uma empresa no seguimento de empreendimentos imobiliários
 
 ---
 
@@ -45,8 +45,8 @@ Atualmente sou **Gerente de TI (PJ)** em uma holding no seguimento de empreendim
 
 ## 🏢 Experiência Profissional
 
-### Gerente de TI – Holding Imobiliária 
-**PJ | Aparecida de Goiânia – GO | Atual**  
+### Gerente de TI – Empresa seguimento de imobiliária 
+**.. | Aparecida de Goiânia – GO | Atual**  
 - Gestão de projetos, equipe técnica e contratos de TI  
 - Implantação de soluções de BI e automações com RPA  
 - Estruturação da segurança da informação  
