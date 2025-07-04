@@ -1,4 +1,4 @@
-# 👨‍💻 Valdivino de Araújo Aquino
+# 👨‍💻 Valdivino A. Aquino
 
 📍 Aparecida de Goiânia - GO, Brasil  
 📧 aquino.sti@hotmail.com  
